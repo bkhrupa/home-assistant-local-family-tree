@@ -1,5 +1,5 @@
 name: "Local Family Tree"
-version: "1.0.6"
+version: "1.0.7"
 slug: "local_family_tree"
 description: "Proxy to local Family Tree site via Ingress"
 startup: services
