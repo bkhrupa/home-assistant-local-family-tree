@@ -1,3 +1,3 @@
 ## What’s changed
 
-* changed a nginx config path.
+* fixes for nginx config
