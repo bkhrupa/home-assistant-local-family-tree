@@ -1,13 +1,14 @@
 name: "Local Family Tree"
-version: "1.0.7"
+version: "1.0.8"
 slug: "local_family_tree"
 description: "Proxy to local Family Tree site via Ingress"
 startup: services
 ingress: true
+ingress_port: 8099
 panel_admin: true
 panel_icon: mdi:family-tree
-ports:
-  36300/tcp: null
+#ports:
+#  36300/tcp: null
 arch:
   - amd64
   - aarch64
